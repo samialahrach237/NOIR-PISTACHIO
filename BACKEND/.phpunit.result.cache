@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.047,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":0.141,"Tests\\Feature\\ApiTest::test_products_are_publicly_available":0.433,"Tests\\Feature\\ApiTest::test_customer_can_login_and_create_an_order_with_database_price":0.252}}
